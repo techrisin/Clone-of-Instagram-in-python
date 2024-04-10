@@ -1,0 +1,26 @@
+<AppBar@MDTopAppBar>:
+    type: "small"
+
+    MDTopAppBarLeadingButtonContainer:
+
+        MDActionTopAppBarButton:
+            icon: "plus"
+            theme_icon_color: "Custom"
+            icon_color : self.theme_cls.primaryColor
+        
+    MDTopAppBarTitle:
+        text: "Instagram"
+        pos_hint: {"center_x": .5}
+        theme_font_size: "Custom"
+        font_size: "30dp"
+        theme_font_name: "Custom"
+        font_name: "assets/font/DancingScript.ttf"
+        # text_color : 1,0,0,1
+        text_color : self.theme_cls.primaryColor
+
+    MDTopAppBarTrailingButtonContainer:
+
+        MDActionTopAppBarButton:
+            icon: "facebook-messenger"
+            theme_icon_color: "Custom"
+            icon_color : self.theme_cls.primaryColor

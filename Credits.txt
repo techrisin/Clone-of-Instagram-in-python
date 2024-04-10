@@ -1,0 +1,11 @@
+Images 
+    https://unsplash.com
+font
+    Dancing script - https://github.com/googlefonts/DancingScript
+
+Software Used
+    Ubuntu 
+    Python
+    Kivy
+    KivyMD
+    Python for android
