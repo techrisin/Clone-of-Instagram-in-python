@@ -2,6 +2,8 @@
 
 This is a fork of https://github.com/subhranil2699/instagram_clone to suit the latest kivyMD version. Developed python code is converted to an Android App using Python for android 
 
+[![Youtube video on instagram app development](http://img.youtube.com/vi/cuU52tDeDYA/0.jpg)](http://www.youtube.com/watch?v=cuU52tDeDYA "Build android app using python kivy kivymd for a clone of instagram")
+
 ## Software Used
 1. Ubuntu
 2. Python 3
